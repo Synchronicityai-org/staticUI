@@ -1,0 +1,452 @@
+[
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of big?",
+    "promptOrder": 1,
+    "imageURL": "/img/opposites/big_small.png",
+    "soundURL": "/audio/tts/opposite_big_001.mp3",
+    "options": ["huge", "small", "tall"],
+    "correctAnswer": "small"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of small?",
+    "promptOrder": 2,
+    "imageURL": "/img/opposites/small_big.png",
+    "soundURL": "/audio/tts/opposite_small_002.mp3",
+    "options": ["tiny", "big", "little"],
+    "correctAnswer": "big"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of hot?",
+    "promptOrder": 3,
+    "imageURL": "/img/opposites/hot_cold.png",
+    "soundURL": "/audio/tts/opposite_hot_003.mp3",
+    "options": ["warm", "cold", "cool"],
+    "correctAnswer": "cold"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of cold?",
+    "promptOrder": 4,
+    "imageURL": "/img/opposites/cold_hot.png",
+    "soundURL": "/audio/tts/opposite_cold_004.mp3",
+    "options": ["cool", "hot", "freezing"],
+    "correctAnswer": "hot"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of fast?",
+    "promptOrder": 5,
+    "imageURL": "/img/opposites/fast_slow.png",
+    "soundURL": "/audio/tts/opposite_fast_005.mp3",
+    "options": ["quick", "slow", "speedy"],
+    "correctAnswer": "slow"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of slow?",
+    "promptOrder": 6,
+    "imageURL": "/img/opposites/slow_fast.png",
+    "soundURL": "/audio/tts/opposite_slow_006.mp3",
+    "options": ["lazy", "fast", "careful"],
+    "correctAnswer": "fast"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of up?",
+    "promptOrder": 7,
+    "imageURL": "/img/opposites/up_down.png",
+    "soundURL": "/audio/tts/opposite_up_007.mp3",
+    "options": ["high", "down", "over"],
+    "correctAnswer": "down"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of down?",
+    "promptOrder": 8,
+    "imageURL": "/img/opposites/down_up.png",
+    "soundURL": "/audio/tts/opposite_down_008.mp3",
+    "options": ["low", "up", "under"],
+    "correctAnswer": "up"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of happy?",
+    "promptOrder": 9,
+    "imageURL": "/img/opposites/happy_sad.png",
+    "soundURL": "/audio/tts/opposite_happy_009.mp3",
+    "options": ["glad", "sad", "excited"],
+    "correctAnswer": "sad"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of sad?",
+    "promptOrder": 10,
+    "imageURL": "/img/opposites/sad_happy.png",
+    "soundURL": "/audio/tts/opposite_sad_010.mp3",
+    "options": ["crying", "happy", "upset"],
+    "correctAnswer": "happy"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of tall?",
+    "promptOrder": 11,
+    "imageURL": "/img/opposites/tall_short.png",
+    "soundURL": "/audio/tts/opposite_tall_011.mp3",
+    "options": ["high", "short", "long"],
+    "correctAnswer": "short"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of short?",
+    "promptOrder": 12,
+    "imageURL": "/img/opposites/short_tall.png",
+    "soundURL": "/audio/tts/opposite_short_012.mp3",
+    "options": ["little", "tall", "small"],
+    "correctAnswer": "tall"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of loud?",
+    "promptOrder": 13,
+    "imageURL": "/img/opposites/loud_quiet.png",
+    "soundURL": "/audio/tts/opposite_loud_013.mp3",
+    "options": ["noisy", "quiet", "big"],
+    "correctAnswer": "quiet"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of quiet?",
+    "promptOrder": 14,
+    "imageURL": "/img/opposites/quiet_loud.png",
+    "soundURL": "/audio/tts/opposite_quiet_014.mp3",
+    "options": ["silent", "loud", "soft"],
+    "correctAnswer": "loud"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of light?",
+    "promptOrder": 15,
+    "imageURL": "/img/opposites/light_dark.png",
+    "soundURL": "/audio/tts/opposite_light_015.mp3",
+    "options": ["bright", "dark", "white"],
+    "correctAnswer": "dark"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of dark?",
+    "promptOrder": 16,
+    "imageURL": "/img/opposites/dark_light.png",
+    "soundURL": "/audio/tts/opposite_dark_016.mp3",
+    "options": ["black", "light", "night"],
+    "correctAnswer": "light"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of old?",
+    "promptOrder": 17,
+    "imageURL": "/img/opposites/old_young.png",
+    "soundURL": "/audio/tts/opposite_old_017.mp3",
+    "options": ["ancient", "young", "new"],
+    "correctAnswer": "young"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of young?",
+    "promptOrder": 18,
+    "imageURL": "/img/opposites/young_old.png",
+    "soundURL": "/audio/tts/opposite_young_018.mp3",
+    "options": ["little", "old", "small"],
+    "correctAnswer": "old"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of wet?",
+    "promptOrder": 19,
+    "imageURL": "/img/opposites/wet_dry.png",
+    "soundURL": "/audio/tts/opposite_wet_019.mp3",
+    "options": ["soaked", "dry", "damp"],
+    "correctAnswer": "dry"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of dry?",
+    "promptOrder": 20,
+    "imageURL": "/img/opposites/dry_wet.png",
+    "soundURL": "/audio/tts/opposite_dry_020.mp3",
+    "options": ["dusty", "wet", "clean"],
+    "correctAnswer": "wet"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of clean?",
+    "promptOrder": 21,
+    "imageURL": "/img/opposites/clean_dirty.png",
+    "soundURL": "/audio/tts/opposite_clean_021.mp3",
+    "options": ["neat", "dirty", "tidy"],
+    "correctAnswer": "dirty"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of dirty?",
+    "promptOrder": 22,
+    "imageURL": "/img/opposites/dirty_clean.png",
+    "soundURL": "/audio/tts/opposite_dirty_022.mp3",
+    "options": ["messy", "clean", "muddy"],
+    "correctAnswer": "clean"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of full?",
+    "promptOrder": 23,
+    "imageURL": "/img/opposites/full_empty.png",
+    "soundURL": "/audio/tts/opposite_full_023.mp3",
+    "options": ["complete", "empty", "whole"],
+    "correctAnswer": "empty"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of empty?",
+    "promptOrder": 24,
+    "imageURL": "/img/opposites/empty_full.png",
+    "soundURL": "/audio/tts/opposite_empty_024.mp3",
+    "options": ["hollow", "full", "blank"],
+    "correctAnswer": "full"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of heavy?",
+    "promptOrder": 25,
+    "imageURL": "/img/opposites/heavy_light.png",
+    "soundURL": "/audio/tts/opposite_heavy_025.mp3",
+    "options": ["big", "light", "strong"],
+    "correctAnswer": "light"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of light (weight)?",
+    "promptOrder": 26,
+    "imageURL": "/img/opposites/light_heavy.png",
+    "soundURL": "/audio/tts/opposite_light_weight_026.mp3",
+    "options": ["soft", "heavy", "small"],
+    "correctAnswer": "heavy"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of soft?",
+    "promptOrder": 27,
+    "imageURL": "/img/opposites/soft_hard.png",
+    "soundURL": "/audio/tts/opposite_soft_027.mp3",
+    "options": ["gentle", "hard", "smooth"],
+    "correctAnswer": "hard"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of hard?",
+    "promptOrder": 28,
+    "imageURL": "/img/opposites/hard_soft.png",
+    "soundURL": "/audio/tts/opposite_hard_028.mp3",
+    "options": ["tough", "soft", "strong"],
+    "correctAnswer": "soft"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of open?",
+    "promptOrder": 29,
+    "imageURL": "/img/opposites/open_closed.png",
+    "soundURL": "/audio/tts/opposite_open_029.mp3",
+    "options": ["wide", "closed", "free"],
+    "correctAnswer": "closed"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of closed?",
+    "promptOrder": 30,
+    "imageURL": "/img/opposites/closed_open.png",
+    "soundURL": "/audio/tts/opposite_closed_030.mp3",
+    "options": ["shut", "open", "locked"],
+    "correctAnswer": "open"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of near?",
+    "promptOrder": 31,
+    "imageURL": "/img/opposites/near_far.png",
+    "soundURL": "/audio/tts/opposite_near_031.mp3",
+    "options": ["close", "far", "next"],
+    "correctAnswer": "far"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of far?",
+    "promptOrder": 32,
+    "imageURL": "/img/opposites/far_near.png",
+    "soundURL": "/audio/tts/opposite_far_032.mp3",
+    "options": ["distant", "near", "away"],
+    "correctAnswer": "near"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of thick?",
+    "promptOrder": 33,
+    "imageURL": "/img/opposites/thick_thin.png",
+    "soundURL": "/audio/tts/opposite_thick_033.mp3",
+    "options": ["wide", "thin", "fat"],
+    "correctAnswer": "thin"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of thin?",
+    "promptOrder": 34,
+    "imageURL": "/img/opposites/thin_thick.png",
+    "soundURL": "/audio/tts/opposite_thin_034.mp3",
+    "options": ["skinny", "thick", "narrow"],
+    "correctAnswer": "thick"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of smooth?",
+    "promptOrder": 35,
+    "imageURL": "/img/opposites/smooth_rough.png",
+    "soundURL": "/audio/tts/opposite_smooth_035.mp3",
+    "options": ["soft", "rough", "flat"],
+    "correctAnswer": "rough"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of rough?",
+    "promptOrder": 36,
+    "imageURL": "/img/opposites/rough_smooth.png",
+    "soundURL": "/audio/tts/opposite_rough_036.mp3",
+    "options": ["bumpy", "smooth", "hard"],
+    "correctAnswer": "smooth"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of long?",
+    "promptOrder": 37,
+    "imageURL": "/img/opposites/long_short.png",
+    "soundURL": "/audio/tts/opposite_long_037.mp3",
+    "options": ["tall", "short", "wide"],
+    "correctAnswer": "short"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of short (length)?",
+    "promptOrder": 38,
+    "imageURL": "/img/opposites/short_long.png",
+    "soundURL": "/audio/tts/opposite_short_length_038.mp3",
+    "options": ["brief", "long", "small"],
+    "correctAnswer": "long"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of wide?",
+    "promptOrder": 39,
+    "imageURL": "/img/opposites/wide_narrow.png",
+    "soundURL": "/audio/tts/opposite_wide_039.mp3",
+    "options": ["broad", "narrow", "big"],
+    "correctAnswer": "narrow"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of narrow?",
+    "promptOrder": 40,
+    "imageURL": "/img/opposites/narrow_wide.png",
+    "soundURL": "/audio/tts/opposite_narrow_040.mp3",
+    "options": ["thin", "wide", "tight"],
+    "correctAnswer": "wide"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of high?",
+    "promptOrder": 41,
+    "imageURL": "/img/opposites/high_low.png",
+    "soundURL": "/audio/tts/opposite_high_041.mp3",
+    "options": ["tall", "low", "up"],
+    "correctAnswer": "low"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of low?",
+    "promptOrder": 42,
+    "imageURL": "/img/opposites/low_high.png",
+    "soundURL": "/audio/tts/opposite_low_042.mp3",
+    "options": ["down", "high", "short"],
+    "correctAnswer": "high"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of strong?",
+    "promptOrder": 43,
+    "imageURL": "/img/opposites/strong_weak.png",
+    "soundURL": "/audio/tts/opposite_strong_043.mp3",
+    "options": ["powerful", "weak", "tough"],
+    "correctAnswer": "weak"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of weak?",
+    "promptOrder": 44,
+    "imageURL": "/img/opposites/weak_strong.png",
+    "soundURL": "/audio/tts/opposite_weak_044.mp3",
+    "options": ["fragile", "strong", "tired"],
+    "correctAnswer": "strong"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of new?",
+    "promptOrder": 45,
+    "imageURL": "/img/opposites/new_old.png",
+    "soundURL": "/audio/tts/opposite_new_045.mp3",
+    "options": ["fresh", "old", "clean"],
+    "correctAnswer": "old"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of old (things)?",
+    "promptOrder": 46,
+    "imageURL": "/img/opposites/old_new.png",
+    "soundURL": "/audio/tts/opposite_old_things_046.mp3",
+    "options": ["ancient", "new", "broken"],
+    "correctAnswer": "new"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of first?",
+    "promptOrder": 47,
+    "imageURL": "/img/opposites/first_last.png",
+    "soundURL": "/audio/tts/opposite_first_047.mp3",
+    "options": ["beginning", "last", "early"],
+    "correctAnswer": "last"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of last?",
+    "promptOrder": 48,
+    "imageURL": "/img/opposites/last_first.png",
+    "soundURL": "/audio/tts/opposite_last_048.mp3",
+    "options": ["final", "first", "end"],
+    "correctAnswer": "first"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of day?",
+    "promptOrder": 49,
+    "imageURL": "/img/opposites/day_night.png",
+    "soundURL": "/audio/tts/opposite_day_049.mp3",
+    "options": ["morning", "night", "sun"],
+    "correctAnswer": "night"
+  },
+  {
+    "gameType": "opposites_match",
+    "promptText": "What is the opposite of night?",
+    "promptOrder": 50,
+    "imageURL": "/img/opposites/night_day.png",
+    "soundURL": "/audio/tts/opposite_night_050.mp3",
+    "options": ["dark", "day", "moon"],
+    "correctAnswer": "day"
+  }
+]

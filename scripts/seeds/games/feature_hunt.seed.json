@@ -1,0 +1,542 @@
+[
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that barks and wags its tail. What am I?",
+    "promptOrder": 1,
+    "imageURL": "/img/feature_hunt/dog.png",
+    "soundURL": "/audio/tts/feature_dog_001.mp3",
+    "options": ["cat", "dog", "bird"],
+    "correctAnswer": "dog"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is red and grows on trees. What am I?",
+    "promptOrder": 2,
+    "imageURL": "/img/feature_hunt/apple.png",
+    "soundURL": "/audio/tts/feature_apple_002.mp3",
+    "options": ["orange", "apple", "banana"],
+    "correctAnswer": "apple"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has four wheels and takes you places. What am I?",
+    "promptOrder": 3,
+    "imageURL": "/img/feature_hunt/car.png",
+    "soundURL": "/audio/tts/feature_car_003.mp3",
+    "options": ["bicycle", "car", "train"],
+    "correctAnswer": "car"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is round and you can bounce it. What am I?",
+    "promptOrder": 4,
+    "imageURL": "/img/feature_hunt/ball.png",
+    "soundURL": "/audio/tts/feature_ball_004.mp3",
+    "options": ["cube", "ball", "stick"],
+    "correctAnswer": "ball"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that flies and has feathers. What am I?",
+    "promptOrder": 5,
+    "imageURL": "/img/feature_hunt/bird.png",
+    "soundURL": "/audio/tts/feature_bird_005.mp3",
+    "options": ["airplane", "bird", "butterfly"],
+    "correctAnswer": "bird"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is cold and melts in the sun. What am I?",
+    "promptOrder": 6,
+    "imageURL": "/img/feature_hunt/ice_cream.png",
+    "soundURL": "/audio/tts/feature_ice_cream_006.mp3",
+    "options": ["cake", "ice cream", "cookie"],
+    "correctAnswer": "ice cream"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has pages and tells stories. What am I?",
+    "promptOrder": 7,
+    "imageURL": "/img/feature_hunt/book.png",
+    "soundURL": "/audio/tts/feature_book_007.mp3",
+    "options": ["magazine", "book", "newspaper"],
+    "correctAnswer": "book"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is yellow and shines in the sky. What am I?",
+    "promptOrder": 8,
+    "imageURL": "/img/feature_hunt/sun.png",
+    "soundURL": "/audio/tts/feature_sun_008.mp3",
+    "options": ["moon", "sun", "star"],
+    "correctAnswer": "sun"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has keys and makes music. What am I?",
+    "promptOrder": 9,
+    "imageURL": "/img/feature_hunt/piano.png",
+    "soundURL": "/audio/tts/feature_piano_009.mp3",
+    "options": ["guitar", "piano", "drum"],
+    "correctAnswer": "piano"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is soft and you sleep on it. What am I?",
+    "promptOrder": 10,
+    "imageURL": "/img/feature_hunt/pillow.png",
+    "soundURL": "/audio/tts/feature_pillow_010.mp3",
+    "options": ["blanket", "pillow", "mattress"],
+    "correctAnswer": "pillow"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has a trunk and is very big. What am I?",
+    "promptOrder": 11,
+    "imageURL": "/img/feature_hunt/elephant.png",
+    "soundURL": "/audio/tts/feature_elephant_011.mp3",
+    "options": ["hippo", "elephant", "rhino"],
+    "correctAnswer": "elephant"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that swims and has fins. What am I?",
+    "promptOrder": 12,
+    "imageURL": "/img/feature_hunt/fish.png",
+    "soundURL": "/audio/tts/feature_fish_012.mp3",
+    "options": ["dolphin", "fish", "whale"],
+    "correctAnswer": "fish"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is green and hops. What am I?",
+    "promptOrder": 13,
+    "imageURL": "/img/feature_hunt/frog.png",
+    "soundURL": "/audio/tts/feature_frog_013.mp3",
+    "options": ["lizard", "frog", "turtle"],
+    "correctAnswer": "frog"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has stripes and lives in Africa. What am I?",
+    "promptOrder": 14,
+    "imageURL": "/img/feature_hunt/zebra.png",
+    "soundURL": "/audio/tts/feature_zebra_014.mp3",
+    "options": ["horse", "zebra", "donkey"],
+    "correctAnswer": "zebra"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is orange and rabbits like to eat. What am I?",
+    "promptOrder": 15,
+    "imageURL": "/img/feature_hunt/carrot.png",
+    "soundURL": "/audio/tts/feature_carrot_015.mp3",
+    "options": ["potato", "carrot", "onion"],
+    "correctAnswer": "carrot"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has spots and is very tall. What am I?",
+    "promptOrder": 16,
+    "imageURL": "/img/feature_hunt/giraffe.png",
+    "soundURL": "/audio/tts/feature_giraffe_016.mp3",
+    "options": ["leopard", "giraffe", "deer"],
+    "correctAnswer": "giraffe"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that buzzes and makes honey. What am I?",
+    "promptOrder": 17,
+    "imageURL": "/img/feature_hunt/bee.png",
+    "soundURL": "/audio/tts/feature_bee_017.mp3",
+    "options": ["fly", "bee", "wasp"],
+    "correctAnswer": "bee"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has eight legs and spins webs. What am I?",
+    "promptOrder": 18,
+    "imageURL": "/img/feature_hunt/spider.png",
+    "soundURL": "/audio/tts/feature_spider_018.mp3",
+    "options": ["ant", "spider", "beetle"],
+    "correctAnswer": "spider"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is white and falls from the sky when it's cold. What am I?",
+    "promptOrder": 19,
+    "imageURL": "/img/feature_hunt/snow.png",
+    "soundURL": "/audio/tts/feature_snow_019.mp3",
+    "options": ["rain", "snow", "hail"],
+    "correctAnswer": "snow"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has beautiful colors after it rains. What am I?",
+    "promptOrder": 20,
+    "imageURL": "/img/feature_hunt/rainbow.png",
+    "soundURL": "/audio/tts/feature_rainbow_020.mp3",
+    "options": ["cloud", "rainbow", "lightning"],
+    "correctAnswer": "rainbow"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that keeps food cold and hums. What am I?",
+    "promptOrder": 21,
+    "imageURL": "/img/feature_hunt/refrigerator.png",
+    "soundURL": "/audio/tts/feature_refrigerator_021.mp3",
+    "options": ["freezer", "refrigerator", "cooler"],
+    "correctAnswer": "refrigerator"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that shows pictures and makes sounds. What am I?",
+    "promptOrder": 22,
+    "imageURL": "/img/feature_hunt/television.png",
+    "soundURL": "/audio/tts/feature_television_022.mp3",
+    "options": ["radio", "television", "computer"],
+    "correctAnswer": "television"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has numbers and tells time. What am I?",
+    "promptOrder": 23,
+    "imageURL": "/img/feature_hunt/clock.png",
+    "soundURL": "/audio/tts/feature_clock_023.mp3",
+    "options": ["watch", "clock", "timer"],
+    "correctAnswer": "clock"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that rings and you can talk to people with it. What am I?",
+    "promptOrder": 24,
+    "imageURL": "/img/feature_hunt/phone.png",
+    "soundURL": "/audio/tts/feature_phone_024.mp3",
+    "options": ["radio", "phone", "speaker"],
+    "correctAnswer": "phone"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has four legs and you sit on it. What am I?",
+    "promptOrder": 25,
+    "imageURL": "/img/feature_hunt/chair.png",
+    "soundURL": "/audio/tts/feature_chair_025.mp3",
+    "options": ["table", "chair", "stool"],
+    "correctAnswer": "chair"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is flat and you eat on it. What am I?",
+    "promptOrder": 26,
+    "imageURL": "/img/feature_hunt/table.png",
+    "soundURL": "/audio/tts/feature_table_026.mp3",
+    "options": ["desk", "table", "counter"],
+    "correctAnswer": "table"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is soft and covers you when you sleep. What am I?",
+    "promptOrder": 27,
+    "imageURL": "/img/feature_hunt/blanket.png",
+    "soundURL": "/audio/tts/feature_blanket_027.mp3",
+    "options": ["sheet", "blanket", "towel"],
+    "correctAnswer": "blanket"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that gives light and you can turn on and off. What am I?",
+    "promptOrder": 28,
+    "imageURL": "/img/feature_hunt/lamp.png",
+    "soundURL": "/audio/tts/feature_lamp_028.mp3",
+    "options": ["candle", "lamp", "flashlight"],
+    "correctAnswer": "lamp"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has bristles and cleans your teeth. What am I?",
+    "promptOrder": 29,
+    "imageURL": "/img/feature_hunt/toothbrush.png",
+    "soundURL": "/audio/tts/feature_toothbrush_029.mp3",
+    "options": ["comb", "toothbrush", "brush"],
+    "correctAnswer": "toothbrush"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is round and helps you see yourself. What am I?",
+    "promptOrder": 30,
+    "imageURL": "/img/feature_hunt/mirror.png",
+    "soundURL": "/audio/tts/feature_mirror_030.mp3",
+    "options": ["window", "mirror", "picture"],
+    "correctAnswer": "mirror"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has laces and protects your feet. What am I?",
+    "promptOrder": 31,
+    "imageURL": "/img/feature_hunt/shoes.png",
+    "soundURL": "/audio/tts/feature_shoes_031.mp3",
+    "options": ["socks", "shoes", "boots"],
+    "correctAnswer": "shoes"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has sleeves and covers your body. What am I?",
+    "promptOrder": 32,
+    "imageURL": "/img/feature_hunt/shirt.png",
+    "soundURL": "/audio/tts/feature_shirt_032.mp3",
+    "options": ["jacket", "shirt", "sweater"],
+    "correctAnswer": "shirt"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has pockets and covers your legs. What am I?",
+    "promptOrder": 33,
+    "imageURL": "/img/feature_hunt/pants.png",
+    "soundURL": "/audio/tts/feature_pants_033.mp3",
+    "options": ["shorts", "pants", "skirt"],
+    "correctAnswer": "pants"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that sits on your head and keeps you warm. What am I?",
+    "promptOrder": 34,
+    "imageURL": "/img/feature_hunt/hat.png",
+    "soundURL": "/audio/tts/feature_hat_034.mp3",
+    "options": ["cap", "hat", "helmet"],
+    "correctAnswer": "hat"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that covers your hands and keeps them warm. What am I?",
+    "promptOrder": 35,
+    "imageURL": "/img/feature_hunt/gloves.png",
+    "soundURL": "/audio/tts/feature_gloves_035.mp3",
+    "options": ["mittens", "gloves", "socks"],
+    "correctAnswer": "gloves"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has lead and you write with it. What am I?",
+    "promptOrder": 36,
+    "imageURL": "/img/feature_hunt/pencil.png",
+    "soundURL": "/audio/tts/feature_pencil_036.mp3",
+    "options": ["pen", "pencil", "marker"],
+    "correctAnswer": "pencil"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has ink and you write with it. What am I?",
+    "promptOrder": 37,
+    "imageURL": "/img/feature_hunt/pen.png",
+    "soundURL": "/audio/tts/feature_pen_037.mp3",
+    "options": ["pencil", "pen", "crayon"],
+    "correctAnswer": "pen"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is colorful and you draw with it. What am I?",
+    "promptOrder": 38,
+    "imageURL": "/img/feature_hunt/crayon.png",
+    "soundURL": "/audio/tts/feature_crayon_038.mp3",
+    "options": ["marker", "crayon", "chalk"],
+    "correctAnswer": "crayon"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is pink and removes pencil marks. What am I?",
+    "promptOrder": 39,
+    "imageURL": "/img/feature_hunt/eraser.png",
+    "soundURL": "/audio/tts/feature_eraser_039.mp3",
+    "options": ["rubber", "eraser", "sponge"],
+    "correctAnswer": "eraser"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is sticky and holds things together. What am I?",
+    "promptOrder": 40,
+    "imageURL": "/img/feature_hunt/glue.png",
+    "soundURL": "/audio/tts/feature_glue_040.mp3",
+    "options": ["tape", "glue", "paste"],
+    "correctAnswer": "glue"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has two sharp edges and cuts paper. What am I?",
+    "promptOrder": 41,
+    "imageURL": "/img/feature_hunt/scissors.png",
+    "soundURL": "/audio/tts/feature_scissors_041.mp3",
+    "options": ["knife", "scissors", "blade"],
+    "correctAnswer": "scissors"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is straight and helps you draw lines. What am I?",
+    "promptOrder": 42,
+    "imageURL": "/img/feature_hunt/ruler.png",
+    "soundURL": "/audio/tts/feature_ruler_042.mp3",
+    "options": ["stick", "ruler", "rod"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has zippers and carries your books. What am I?",
+    "promptOrder": 43,
+    "imageURL": "/img/feature_hunt/backpack.png",
+    "soundURL": "/audio/tts/feature_backpack_043.mp3",
+    "options": ["bag", "backpack", "suitcase"],
+    "correctAnswer": "backpack"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has compartments and holds your lunch. What am I?",
+    "promptOrder": 44,
+    "imageURL": "/img/feature_hunt/lunchbox.png",
+    "soundURL": "/audio/tts/feature_lunchbox_044.mp3",
+    "options": ["container", "lunchbox", "box"],
+    "correctAnswer": "lunchbox"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has a handle and you drink from it. What am I?",
+    "promptOrder": 45,
+    "imageURL": "/img/feature_hunt/cup.png",
+    "soundURL": "/audio/tts/feature_cup_045.mp3",
+    "options": ["mug", "cup", "glass"],
+    "correctAnswer": "cup"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has prongs and you eat with it. What am I?",
+    "promptOrder": 46,
+    "imageURL": "/img/feature_hunt/fork.png",
+    "soundURL": "/audio/tts/feature_fork_046.mp3",
+    "options": ["spoon", "fork", "knife"],
+    "correctAnswer": "fork"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is round and you eat soup with it. What am I?",
+    "promptOrder": 47,
+    "imageURL": "/img/feature_hunt/spoon.png",
+    "soundURL": "/audio/tts/feature_spoon_047.mp3",
+    "options": ["fork", "spoon", "ladle"],
+    "correctAnswer": "spoon"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is sharp and cuts food. What am I?",
+    "promptOrder": 48,
+    "imageURL": "/img/feature_hunt/knife.png",
+    "soundURL": "/audio/tts/feature_knife_048.mp3",
+    "options": ["scissors", "knife", "blade"],
+    "correctAnswer": "knife"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is flat and you eat food on it. What am I?",
+    "promptOrder": 49,
+    "imageURL": "/img/feature_hunt/plate.png",
+    "soundURL": "/audio/tts/feature_plate_049.mp3",
+    "options": ["bowl", "plate", "tray"],
+    "correctAnswer": "plate"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is deep and you eat cereal from it. What am I?",
+    "promptOrder": 50,
+    "imageURL": "/img/feature_hunt/bowl.png",
+    "soundURL": "/audio/tts/feature_bowl_050.mp3",
+    "options": ["plate", "bowl", "cup"],
+    "correctAnswer": "bowl"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has strings and makes music when you pluck them. What am I?",
+    "promptOrder": 51,
+    "imageURL": "/img/feature_hunt/guitar.png",
+    "soundURL": "/audio/tts/feature_guitar_051.mp3",
+    "options": ["violin", "guitar", "harp"],
+    "correctAnswer": "guitar"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that you hit with sticks to make music. What am I?",
+    "promptOrder": 52,
+    "imageURL": "/img/feature_hunt/drum.png",
+    "soundURL": "/audio/tts/feature_drum_052.mp3",
+    "options": ["cymbal", "drum", "bell"],
+    "correctAnswer": "drum"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that you blow into to make music. What am I?",
+    "promptOrder": 53,
+    "imageURL": "/img/feature_hunt/flute.png",
+    "soundURL": "/audio/tts/feature_flute_053.mp3",
+    "options": ["trumpet", "flute", "whistle"],
+    "correctAnswer": "flute"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has pedals and two wheels. What am I?",
+    "promptOrder": 54,
+    "imageURL": "/img/feature_hunt/bicycle.png",
+    "soundURL": "/audio/tts/feature_bicycle_054.mp3",
+    "options": ["motorcycle", "bicycle", "scooter"],
+    "correctAnswer": "bicycle"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has wings and an engine. What am I?",
+    "promptOrder": 55,
+    "imageURL": "/img/feature_hunt/airplane.png",
+    "soundURL": "/audio/tts/feature_airplane_055.mp3",
+    "options": ["helicopter", "airplane", "jet"],
+    "correctAnswer": "airplane"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that floats on water and has sails. What am I?",
+    "promptOrder": 56,
+    "imageURL": "/img/feature_hunt/boat.png",
+    "soundURL": "/audio/tts/feature_boat_056.mp3",
+    "options": ["ship", "boat", "raft"],
+    "correctAnswer": "boat"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that runs on tracks and carries people. What am I?",
+    "promptOrder": 57,
+    "imageURL": "/img/feature_hunt/train.png",
+    "soundURL": "/audio/tts/feature_train_057.mp3",
+    "options": ["subway", "train", "trolley"],
+    "correctAnswer": "train"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that is yellow and takes children to school. What am I?",
+    "promptOrder": 58,
+    "imageURL": "/img/feature_hunt/school_bus.png",
+    "soundURL": "/audio/tts/feature_school_bus_058.mp3",
+    "options": ["taxi", "school bus", "van"],
+    "correctAnswer": "school bus"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has a ladder and fights fires. What am I?",
+    "promptOrder": 59,
+    "imageURL": "/img/feature_hunt/fire_truck.png",
+    "soundURL": "/audio/tts/feature_fire_truck_059.mp3",
+    "options": ["ambulance", "fire truck", "police car"],
+    "correctAnswer": "fire truck"
+  },
+  {
+    "gameType": "feature_hunt",
+    "promptText": "I'm thinking of something that has a siren and helps sick people. What am I?",
+    "promptOrder": 60,
+    "imageURL": "/img/feature_hunt/ambulance.png",
+    "soundURL": "/audio/tts/feature_ambulance_060.mp3",
+    "options": ["fire truck", "ambulance", "police car"],
+    "correctAnswer": "ambulance"
+  }
+]

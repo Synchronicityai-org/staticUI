@@ -1,0 +1,1352 @@
+[
+  {
+    "gameType": "category_quest",
+    "promptText": "Which animal says 'meow'?",
+    "promptOrder": 1,
+    "imageURL": "/img/animals/cat.png",
+    "soundURL": "/audio/tts/cat_001.mp3",
+    "options": ["cat", "dog", "bird"],
+    "correctAnswer": "cat"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which animal has a long trunk?",
+    "promptOrder": 2,
+    "imageURL": "/img/animals/elephant.png",
+    "soundURL": "/audio/tts/elephant_002.mp3",
+    "options": ["lion", "elephant", "monkey"],
+    "correctAnswer": "elephant"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which animal can fly?",
+    "promptOrder": 3,
+    "imageURL": "/img/animals/bird.png",
+    "soundURL": "/audio/tts/bird_003.mp3",
+    "options": ["fish", "bird", "rabbit"],
+    "correctAnswer": "bird"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which animal lives in water?",
+    "promptOrder": 4,
+    "imageURL": "/img/animals/fish.png",
+    "soundURL": "/audio/tts/fish_004.mp3",
+    "options": ["fish", "cow", "horse"],
+    "correctAnswer": "fish"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which animal hops?",
+    "promptOrder": 5,
+    "imageURL": "/img/animals/rabbit.png",
+    "soundURL": "/audio/tts/rabbit_005.mp3",
+    "options": ["snake", "rabbit", "turtle"],
+    "correctAnswer": "rabbit"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which animal is the king of the jungle?",
+    "promptOrder": 6,
+    "imageURL": "/img/animals/lion.png",
+    "soundURL": "/audio/tts/lion_006.mp3",
+    "options": ["tiger", "bear", "lion"],
+    "correctAnswer": "lion"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which animal gives us milk?",
+    "promptOrder": 7,
+    "imageURL": "/img/animals/cow.png",
+    "soundURL": "/audio/tts/cow_007.mp3",
+    "options": ["cow", "pig", "sheep"],
+    "correctAnswer": "cow"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which animal says 'woof'?",
+    "promptOrder": 8,
+    "imageURL": "/img/animals/dog.png",
+    "soundURL": "/audio/tts/dog_008.mp3",
+    "options": ["cat", "dog", "mouse"],
+    "correctAnswer": "dog"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which fruit is red?",
+    "promptOrder": 9,
+    "imageURL": "/img/foods/apple.png",
+    "soundURL": "/audio/tts/apple_009.mp3",
+    "options": ["banana", "apple", "orange"],
+    "correctAnswer": "apple"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which fruit is yellow and long?",
+    "promptOrder": 10,
+    "imageURL": "/img/foods/banana.png",
+    "soundURL": "/audio/tts/banana_010.mp3",
+    "options": ["apple", "grape", "banana"],
+    "correctAnswer": "banana"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which food is round and has cheese?",
+    "promptOrder": 11,
+    "imageURL": "/img/foods/pizza.png",
+    "soundURL": "/audio/tts/pizza_011.mp3",
+    "options": ["pizza", "sandwich", "soup"],
+    "correctAnswer": "pizza"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which drink is white?",
+    "promptOrder": 12,
+    "imageURL": "/img/foods/milk.png",
+    "soundURL": "/audio/tts/milk_012.mp3",
+    "options": ["juice", "milk", "water"],
+    "correctAnswer": "milk"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which food comes from chickens?",
+    "promptOrder": 13,
+    "imageURL": "/img/foods/egg.png",
+    "soundURL": "/audio/tts/egg_013.mp3",
+    "options": ["egg", "bread", "rice"],
+    "correctAnswer": "egg"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which food is cold and sweet?",
+    "promptOrder": 14,
+    "imageURL": "/img/foods/ice_cream.png",
+    "soundURL": "/audio/tts/ice_cream_014.mp3",
+    "options": ["soup", "ice cream", "salad"],
+    "correctAnswer": "ice cream"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which vegetable is orange?",
+    "promptOrder": 15,
+    "imageURL": "/img/foods/carrot.png",
+    "soundURL": "/audio/tts/carrot_015.mp3",
+    "options": ["lettuce", "carrot", "potato"],
+    "correctAnswer": "carrot"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we wear on our feet?",
+    "promptOrder": 16,
+    "imageURL": "/img/clothes/shoes.png",
+    "soundURL": "/audio/tts/shoes_016.mp3",
+    "options": ["hat", "shoes", "gloves"],
+    "correctAnswer": "shoes"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we wear on our head?",
+    "promptOrder": 17,
+    "imageURL": "/img/clothes/hat.png",
+    "soundURL": "/audio/tts/hat_017.mp3",
+    "options": ["hat", "shirt", "pants"],
+    "correctAnswer": "hat"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we wear on our hands when it's cold?",
+    "promptOrder": 18,
+    "imageURL": "/img/clothes/gloves.png",
+    "soundURL": "/audio/tts/gloves_018.mp3",
+    "options": ["socks", "gloves", "scarf"],
+    "correctAnswer": "gloves"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we wear on our legs?",
+    "promptOrder": 19,
+    "imageURL": "/img/clothes/pants.png",
+    "soundURL": "/audio/tts/pants_019.mp3",
+    "options": ["shirt", "pants", "jacket"],
+    "correctAnswer": "pants"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we wear on our body?",
+    "promptOrder": 20,
+    "imageURL": "/img/clothes/shirt.png",
+    "soundURL": "/audio/tts/shirt_020.mp3",
+    "options": ["shirt", "shoes", "hat"],
+    "correctAnswer": "shirt"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we use to write?",
+    "promptOrder": 21,
+    "imageURL": "/img/school/pencil.png",
+    "soundURL": "/audio/tts/pencil_021.mp3",
+    "options": ["book", "pencil", "chair"],
+    "correctAnswer": "pencil"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we read?",
+    "promptOrder": 22,
+    "imageURL": "/img/school/book.png",
+    "soundURL": "/audio/tts/book_022.mp3",
+    "options": ["book", "pencil", "desk"],
+    "correctAnswer": "book"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we sit on at school?",
+    "promptOrder": 23,
+    "imageURL": "/img/school/chair.png",
+    "soundURL": "/audio/tts/chair_023.mp3",
+    "options": ["floor", "chair", "table"],
+    "correctAnswer": "chair"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we carry our books in?",
+    "promptOrder": 24,
+    "imageURL": "/img/school/backpack.png",
+    "soundURL": "/audio/tts/backpack_024.mp3",
+    "options": ["backpack", "lunch box", "pencil case"],
+    "correctAnswer": "backpack"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we use to cut paper?",
+    "promptOrder": 25,
+    "imageURL": "/img/school/scissors.png",
+    "soundURL": "/audio/tts/scissors_025.mp3",
+    "options": ["glue", "scissors", "ruler"],
+    "correctAnswer": "scissors"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What part of our body do we see with?",
+    "promptOrder": 26,
+    "imageURL": "/img/body/eyes.png",
+    "soundURL": "/audio/tts/eyes_026.mp3",
+    "options": ["nose", "eyes", "mouth"],
+    "correctAnswer": "eyes"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What part of our body do we smell with?",
+    "promptOrder": 27,
+    "imageURL": "/img/body/nose.png",
+    "soundURL": "/audio/tts/nose_027.mp3",
+    "options": ["eyes", "nose", "ears"],
+    "correctAnswer": "nose"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What part of our body do we hear with?",
+    "promptOrder": 28,
+    "imageURL": "/img/body/ears.png",
+    "soundURL": "/audio/tts/ears_028.mp3",
+    "options": ["ears", "mouth", "hands"],
+    "correctAnswer": "ears"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What part of our body do we eat with?",
+    "promptOrder": 29,
+    "imageURL": "/img/body/mouth.png",
+    "soundURL": "/audio/tts/mouth_029.mp3",
+    "options": ["nose", "mouth", "eyes"],
+    "correctAnswer": "mouth"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What part of our body do we clap with?",
+    "promptOrder": 30,
+    "imageURL": "/img/body/hands.png",
+    "soundURL": "/audio/tts/hands_030.mp3",
+    "options": ["feet", "hands", "head"],
+    "correctAnswer": "hands"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which vehicle flies in the sky?",
+    "promptOrder": 31,
+    "imageURL": "/img/vehicles/airplane.png",
+    "soundURL": "/audio/tts/airplane_031.mp3",
+    "options": ["car", "airplane", "boat"],
+    "correctAnswer": "airplane"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which vehicle drives on roads?",
+    "promptOrder": 32,
+    "imageURL": "/img/vehicles/car.png",
+    "soundURL": "/audio/tts/car_032.mp3",
+    "options": ["car", "boat", "airplane"],
+    "correctAnswer": "car"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which vehicle floats on water?",
+    "promptOrder": 33,
+    "imageURL": "/img/vehicles/boat.png",
+    "soundURL": "/audio/tts/boat_033.mp3",
+    "options": ["train", "boat", "bus"],
+    "correctAnswer": "boat"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which vehicle carries many people?",
+    "promptOrder": 34,
+    "imageURL": "/img/vehicles/bus.png",
+    "soundURL": "/audio/tts/bus_034.mp3",
+    "options": ["bicycle", "bus", "motorcycle"],
+    "correctAnswer": "bus"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which vehicle has two wheels?",
+    "promptOrder": 35,
+    "imageURL": "/img/vehicles/bicycle.png",
+    "soundURL": "/audio/tts/bicycle_035.mp3",
+    "options": ["car", "truck", "bicycle"],
+    "correctAnswer": "bicycle"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What tool do we use to hammer nails?",
+    "promptOrder": 36,
+    "imageURL": "/img/tools/hammer.png",
+    "soundURL": "/audio/tts/hammer_036.mp3",
+    "options": ["screwdriver", "hammer", "saw"],
+    "correctAnswer": "hammer"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What tool do we use to cut wood?",
+    "promptOrder": 37,
+    "imageURL": "/img/tools/saw.png",
+    "soundURL": "/audio/tts/saw_037.mp3",
+    "options": ["hammer", "saw", "wrench"],
+    "correctAnswer": "saw"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What tool do we use to turn screws?",
+    "promptOrder": 38,
+    "imageURL": "/img/tools/screwdriver.png",
+    "soundURL": "/audio/tts/screwdriver_038.mp3",
+    "options": ["screwdriver", "pliers", "drill"],
+    "correctAnswer": "screwdriver"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What tool do we use to measure things?",
+    "promptOrder": 39,
+    "imageURL": "/img/tools/ruler.png",
+    "soundURL": "/audio/tts/ruler_039.mp3",
+    "options": ["scissors", "ruler", "stapler"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What tool helps us see far away?",
+    "promptOrder": 40,
+    "imageURL": "/img/tools/telescope.png",
+    "soundURL": "/audio/tts/telescope_040.mp3",
+    "options": ["microscope", "telescope", "magnifier"],
+    "correctAnswer": "telescope"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Where do we go to learn?",
+    "promptOrder": 41,
+    "imageURL": "/img/places/school.png",
+    "soundURL": "/audio/tts/school_041.mp3",
+    "options": ["store", "school", "park"],
+    "correctAnswer": "school"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Where do we buy food?",
+    "promptOrder": 42,
+    "imageURL": "/img/places/store.png",
+    "soundURL": "/audio/tts/store_042.mp3",
+    "options": ["library", "store", "hospital"],
+    "correctAnswer": "store"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Where do we borrow books?",
+    "promptOrder": 43,
+    "imageURL": "/img/places/library.png",
+    "soundURL": "/audio/tts/library_043.mp3",
+    "options": ["library", "restaurant", "bank"],
+    "correctAnswer": "library"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Where do we go when we're sick?",
+    "promptOrder": 44,
+    "imageURL": "/img/places/hospital.png",
+    "soundURL": "/audio/tts/hospital_044.mp3",
+    "options": ["school", "hospital", "park"],
+    "correctAnswer": "hospital"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Where do we play outside?",
+    "promptOrder": 45,
+    "imageURL": "/img/places/park.png",
+    "soundURL": "/audio/tts/park_045.mp3",
+    "options": ["kitchen", "park", "bathroom"],
+    "correctAnswer": "park"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What action do we do with our legs?",
+    "promptOrder": 46,
+    "imageURL": "/img/actions/run.png",
+    "soundURL": "/audio/tts/run_046.mp3",
+    "options": ["clap", "run", "sing"],
+    "correctAnswer": "run"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What action do we do with our hands?",
+    "promptOrder": 47,
+    "imageURL": "/img/actions/clap.png",
+    "soundURL": "/audio/tts/clap_047.mp3",
+    "options": ["jump", "clap", "sleep"],
+    "correctAnswer": "clap"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What action do we do with our voice?",
+    "promptOrder": 48,
+    "imageURL": "/img/actions/sing.png",
+    "soundURL": "/audio/tts/sing_048.mp3",
+    "options": ["run", "draw", "sing"],
+    "correctAnswer": "sing"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What action do we do when we're tired?",
+    "promptOrder": 49,
+    "imageURL": "/img/actions/sleep.png",
+    "soundURL": "/audio/tts/sleep_049.mp3",
+    "options": ["dance", "sleep", "jump"],
+    "correctAnswer": "sleep"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What action do we do with music?",
+    "promptOrder": 50,
+    "imageURL": "/img/actions/dance.png",
+    "soundURL": "/audio/tts/dance_050.mp3",
+    "options": ["read", "dance", "write"],
+    "correctAnswer": "dance"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What shape has three sides?",
+    "promptOrder": 51,
+    "imageURL": "/img/shapes/triangle.png",
+    "soundURL": "/audio/tts/triangle_051.mp3",
+    "options": ["circle", "triangle", "square"],
+    "correctAnswer": "triangle"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What shape is round?",
+    "promptOrder": 52,
+    "imageURL": "/img/shapes/circle.png",
+    "soundURL": "/audio/tts/circle_052.mp3",
+    "options": ["triangle", "circle", "rectangle"],
+    "correctAnswer": "circle"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What shape has four equal sides?",
+    "promptOrder": 53,
+    "imageURL": "/img/shapes/square.png",
+    "soundURL": "/audio/tts/square_053.mp3",
+    "options": ["oval", "square", "star"],
+    "correctAnswer": "square"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What shape is like a square but longer?",
+    "promptOrder": 54,
+    "imageURL": "/img/shapes/rectangle.png",
+    "soundURL": "/audio/tts/rectangle_054.mp3",
+    "options": ["rectangle", "diamond", "heart"],
+    "correctAnswer": "rectangle"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What shape has five points?",
+    "promptOrder": 55,
+    "imageURL": "/img/shapes/star.png",
+    "soundURL": "/audio/tts/star_055.mp3",
+    "options": ["circle", "star", "triangle"],
+    "correctAnswer": "star"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What color do we get when we mix red and yellow?",
+    "promptOrder": 56,
+    "imageURL": "/img/colors/orange.png",
+    "soundURL": "/audio/tts/orange_056.mp3",
+    "options": ["purple", "orange", "green"],
+    "correctAnswer": "orange"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What color is the sun?",
+    "promptOrder": 57,
+    "imageURL": "/img/colors/yellow.png",
+    "soundURL": "/audio/tts/yellow_057.mp3",
+    "options": ["blue", "yellow", "red"],
+    "correctAnswer": "yellow"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What color is grass?",
+    "promptOrder": 58,
+    "imageURL": "/img/colors/green.png",
+    "soundURL": "/audio/tts/green_058.mp3",
+    "options": ["green", "brown", "pink"],
+    "correctAnswer": "green"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What color is the sky?",
+    "promptOrder": 59,
+    "imageURL": "/img/colors/blue.png",
+    "soundURL": "/audio/tts/blue_059.mp3",
+    "options": ["white", "blue", "black"],
+    "correctAnswer": "blue"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What color do we get when we mix blue and red?",
+    "promptOrder": 60,
+    "imageURL": "/img/colors/purple.png",
+    "soundURL": "/audio/tts/purple_060.mp3",
+    "options": ["orange", "purple", "gray"],
+    "correctAnswer": "purple"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What furniture do we sleep on?",
+    "promptOrder": 61,
+    "imageURL": "/img/furniture/bed.png",
+    "soundURL": "/audio/tts/bed_061.mp3",
+    "options": ["chair", "bed", "table"],
+    "correctAnswer": "bed"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What furniture do we eat on?",
+    "promptOrder": 62,
+    "imageURL": "/img/furniture/table.png",
+    "soundURL": "/audio/tts/table_062.mp3",
+    "options": ["bed", "table", "bookshelf"],
+    "correctAnswer": "table"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What furniture do we sit on?",
+    "promptOrder": 63,
+    "imageURL": "/img/furniture/chair.png",
+    "soundURL": "/audio/tts/chair_063.mp3",
+    "options": ["lamp", "chair", "mirror"],
+    "correctAnswer": "chair"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What furniture holds our books?",
+    "promptOrder": 64,
+    "imageURL": "/img/furniture/bookshelf.png",
+    "soundURL": "/audio/tts/bookshelf_064.mp3",
+    "options": ["desk", "bookshelf", "dresser"],
+    "correctAnswer": "bookshelf"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What furniture gives us light?",
+    "promptOrder": 65,
+    "imageURL": "/img/furniture/lamp.png",
+    "soundURL": "/audio/tts/lamp_065.mp3",
+    "options": ["couch", "lamp", "cabinet"],
+    "correctAnswer": "lamp"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "How do we feel when we smile?",
+    "promptOrder": 66,
+    "imageURL": "/img/feelings/happy.png",
+    "soundURL": "/audio/tts/happy_066.mp3",
+    "options": ["angry", "happy", "scared"],
+    "correctAnswer": "happy"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "How do we feel when we cry?",
+    "promptOrder": 67,
+    "imageURL": "/img/feelings/sad.png",
+    "soundURL": "/audio/tts/sad_067.mp3",
+    "options": ["excited", "sad", "proud"],
+    "correctAnswer": "sad"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "How do we feel when we yell?",
+    "promptOrder": 68,
+    "imageURL": "/img/feelings/angry.png",
+    "soundURL": "/audio/tts/angry_068.mp3",
+    "options": ["calm", "angry", "sleepy"],
+    "correctAnswer": "angry"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "How do we feel when we hide?",
+    "promptOrder": 69,
+    "imageURL": "/img/feelings/scared.png",
+    "soundURL": "/audio/tts/scared_069.mp3",
+    "options": ["brave", "scared", "silly"],
+    "correctAnswer": "scared"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "How do we feel when we jump up and down?",
+    "promptOrder": 70,
+    "imageURL": "/img/feelings/excited.png",
+    "soundURL": "/audio/tts/excited_070.mp3",
+    "options": ["bored", "excited", "tired"],
+    "correctAnswer": "excited"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What weather makes us use an umbrella?",
+    "promptOrder": 71,
+    "imageURL": "/img/weather/rain.png",
+    "soundURL": "/audio/tts/rain_071.mp3",
+    "options": ["sunny", "rain", "windy"],
+    "correctAnswer": "rain"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What weather is bright and warm?",
+    "promptOrder": 72,
+    "imageURL": "/img/weather/sunny.png",
+    "soundURL": "/audio/tts/sunny_072.mp3",
+    "options": ["cloudy", "sunny", "snowy"],
+    "correctAnswer": "sunny"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What weather is cold and white?",
+    "promptOrder": 73,
+    "imageURL": "/img/weather/snow.png",
+    "soundURL": "/audio/tts/snow_073.mp3",
+    "options": ["hot", "snow", "foggy"],
+    "correctAnswer": "snow"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What weather makes trees move?",
+    "promptOrder": 74,
+    "imageURL": "/img/weather/windy.png",
+    "soundURL": "/audio/tts/windy_074.mp3",
+    "options": ["still", "windy", "humid"],
+    "correctAnswer": "windy"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What weather has gray skies?",
+    "promptOrder": 75,
+    "imageURL": "/img/weather/cloudy.png",
+    "soundURL": "/audio/tts/cloudy_075.mp3",
+    "options": ["clear", "cloudy", "stormy"],
+    "correctAnswer": "cloudy"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What household item keeps food cold?",
+    "promptOrder": 76,
+    "imageURL": "/img/household/refrigerator.png",
+    "soundURL": "/audio/tts/refrigerator_076.mp3",
+    "options": ["oven", "refrigerator", "dishwasher"],
+    "correctAnswer": "refrigerator"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What household item cooks food?",
+    "promptOrder": 77,
+    "imageURL": "/img/household/stove.png",
+    "soundURL": "/audio/tts/stove_077.mp3",
+    "options": ["sink", "stove", "microwave"],
+    "correctAnswer": "stove"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What household item washes dishes?",
+    "promptOrder": 78,
+    "imageURL": "/img/household/sink.png",
+    "soundURL": "/audio/tts/sink_078.mp3",
+    "options": ["bathtub", "sink", "toilet"],
+    "correctAnswer": "sink"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What household item shows pictures?",
+    "promptOrder": 79,
+    "imageURL": "/img/household/television.png",
+    "soundURL": "/audio/tts/television_079.mp3",
+    "options": ["radio", "television", "phone"],
+    "correctAnswer": "television"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What household item cleans clothes?",
+    "promptOrder": 80,
+    "imageURL": "/img/household/washing_machine.png",
+    "soundURL": "/audio/tts/washing_machine_080.mp3",
+    "options": ["dryer", "washing machine", "vacuum"],
+    "correctAnswer": "washing machine"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What grows tall and has leaves?",
+    "promptOrder": 81,
+    "imageURL": "/img/nature/tree.png",
+    "soundURL": "/audio/tts/tree_081.mp3",
+    "options": ["rock", "tree", "cloud"],
+    "correctAnswer": "tree"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What is colorful and smells nice?",
+    "promptOrder": 82,
+    "imageURL": "/img/nature/flower.png",
+    "soundURL": "/audio/tts/flower_082.mp3",
+    "options": ["stone", "flower", "stick"],
+    "correctAnswer": "flower"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What is green and grows on the ground?",
+    "promptOrder": 83,
+    "imageURL": "/img/nature/grass.png",
+    "soundURL": "/audio/tts/grass_083.mp3",
+    "options": ["sand", "grass", "mud"],
+    "correctAnswer": "grass"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What is big and made of stone?",
+    "promptOrder": 84,
+    "imageURL": "/img/nature/mountain.png",
+    "soundURL": "/audio/tts/mountain_084.mp3",
+    "options": ["hill", "mountain", "valley"],
+    "correctAnswer": "mountain"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What is blue and has waves?",
+    "promptOrder": 85,
+    "imageURL": "/img/nature/ocean.png",
+    "soundURL": "/audio/tts/ocean_085.mp3",
+    "options": ["lake", "ocean", "river"],
+    "correctAnswer": "ocean"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Who helps sick people feel better?",
+    "promptOrder": 86,
+    "imageURL": "/img/community/doctor.png",
+    "soundURL": "/audio/tts/doctor_086.mp3",
+    "options": ["teacher", "doctor", "chef"],
+    "correctAnswer": "doctor"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Who teaches children at school?",
+    "promptOrder": 87,
+    "imageURL": "/img/community/teacher.png",
+    "soundURL": "/audio/tts/teacher_087.mp3",
+    "options": ["nurse", "teacher", "pilot"],
+    "correctAnswer": "teacher"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Who puts out fires?",
+    "promptOrder": 88,
+    "imageURL": "/img/community/firefighter.png",
+    "soundURL": "/audio/tts/firefighter_088.mp3",
+    "options": ["police", "firefighter", "dentist"],
+    "correctAnswer": "firefighter"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Who keeps us safe?",
+    "promptOrder": 89,
+    "imageURL": "/img/community/police.png",
+    "soundURL": "/audio/tts/police_089.mp3",
+    "options": ["farmer", "police", "baker"],
+    "correctAnswer": "police"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Who cooks food in restaurants?",
+    "promptOrder": 90,
+    "imageURL": "/img/community/chef.png",
+    "soundURL": "/audio/tts/chef_090.mp3",
+    "options": ["waiter", "chef", "cashier"],
+    "correctAnswer": "chef"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What sport uses a ball and a hoop?",
+    "promptOrder": 91,
+    "imageURL": "/img/sports/basketball.png",
+    "soundURL": "/audio/tts/basketball_091.mp3",
+    "options": ["tennis", "basketball", "golf"],
+    "correctAnswer": "basketball"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What sport uses a ball and feet?",
+    "promptOrder": 92,
+    "imageURL": "/img/sports/soccer.png",
+    "soundURL": "/audio/tts/soccer_092.mp3",
+    "options": ["baseball", "soccer", "hockey"],
+    "correctAnswer": "soccer"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What sport uses a bat and ball?",
+    "promptOrder": 93,
+    "imageURL": "/img/sports/baseball.png",
+    "soundURL": "/audio/tts/baseball_093.mp3",
+    "options": ["swimming", "baseball", "running"],
+    "correctAnswer": "baseball"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What sport is done in water?",
+    "promptOrder": 94,
+    "imageURL": "/img/sports/swimming.png",
+    "soundURL": "/audio/tts/swimming_094.mp3",
+    "options": ["cycling", "swimming", "skiing"],
+    "correctAnswer": "swimming"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What sport uses a racket?",
+    "promptOrder": 95,
+    "imageURL": "/img/sports/tennis.png",
+    "soundURL": "/audio/tts/tennis_095.mp3",
+    "options": ["football", "tennis", "bowling"],
+    "correctAnswer": "tennis"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What toy bounces up and down?",
+    "promptOrder": 96,
+    "imageURL": "/img/toys/ball.png",
+    "soundURL": "/audio/tts/ball_096.mp3",
+    "options": ["doll", "ball", "puzzle"],
+    "correctAnswer": "ball"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What toy is soft and cuddly?",
+    "promptOrder": 97,
+    "imageURL": "/img/toys/teddy_bear.png",
+    "soundURL": "/audio/tts/teddy_bear_097.mp3",
+    "options": ["car", "teddy bear", "blocks"],
+    "correctAnswer": "teddy bear"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What toy has pieces that fit together?",
+    "promptOrder": 98,
+    "imageURL": "/img/toys/puzzle.png",
+    "soundURL": "/audio/tts/puzzle_098.mp3",
+    "options": ["kite", "puzzle", "yo-yo"],
+    "correctAnswer": "puzzle"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What toy can you stack up high?",
+    "promptOrder": 99,
+    "imageURL": "/img/toys/blocks.png",
+    "soundURL": "/audio/tts/blocks_099.mp3",
+    "options": ["marbles", "blocks", "jump rope"],
+    "correctAnswer": "blocks"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What toy flies in the wind?",
+    "promptOrder": 100,
+    "imageURL": "/img/toys/kite.png",
+    "soundURL": "/audio/tts/kite_100.mp3",
+    "options": ["top", "kite", "whistle"],
+    "correctAnswer": "kite"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What is the opposite of big?",
+    "promptOrder": 101,
+    "imageURL": "/img/opposites/big_small.png",
+    "soundURL": "/audio/tts/small_101.mp3",
+    "options": ["huge", "small", "tall"],
+    "correctAnswer": "small"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What is the opposite of hot?",
+    "promptOrder": 102,
+    "imageURL": "/img/opposites/hot_cold.png",
+    "soundURL": "/audio/tts/cold_102.mp3",
+    "options": ["warm", "cold", "cool"],
+    "correctAnswer": "cold"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What is the opposite of fast?",
+    "promptOrder": 103,
+    "imageURL": "/img/opposites/fast_slow.png",
+    "soundURL": "/audio/tts/slow_103.mp3",
+    "options": ["quick", "slow", "speedy"],
+    "correctAnswer": "slow"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What is the opposite of up?",
+    "promptOrder": 104,
+    "imageURL": "/img/opposites/up_down.png",
+    "soundURL": "/audio/tts/down_104.mp3",
+    "options": ["high", "down", "over"],
+    "correctAnswer": "down"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What is the opposite of happy?",
+    "promptOrder": 105,
+    "imageURL": "/img/opposites/happy_sad.png",
+    "soundURL": "/audio/tts/sad_105.mp3",
+    "options": ["glad", "sad", "excited"],
+    "correctAnswer": "sad"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which sea animal has eight arms?",
+    "promptOrder": 106,
+    "imageURL": "/img/animals/octopus.png",
+    "soundURL": "/audio/tts/octopus_106.mp3",
+    "options": ["whale", "octopus", "dolphin"],
+    "correctAnswer": "octopus"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which animal is black and white and lives in cold places?",
+    "promptOrder": 107,
+    "imageURL": "/img/animals/penguin.png",
+    "soundURL": "/audio/tts/penguin_107.mp3",
+    "options": ["polar bear", "penguin", "seal"],
+    "correctAnswer": "penguin"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which animal has a pouch for babies?",
+    "promptOrder": 108,
+    "imageURL": "/img/animals/kangaroo.png",
+    "soundURL": "/audio/tts/kangaroo_108.mp3",
+    "options": ["koala", "kangaroo", "wombat"],
+    "correctAnswer": "kangaroo"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which animal changes colors?",
+    "promptOrder": 109,
+    "imageURL": "/img/animals/chameleon.png",
+    "soundURL": "/audio/tts/chameleon_109.mp3",
+    "options": ["lizard", "chameleon", "gecko"],
+    "correctAnswer": "chameleon"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which animal has a very long neck?",
+    "promptOrder": 110,
+    "imageURL": "/img/animals/giraffe.png",
+    "soundURL": "/audio/tts/giraffe_110.mp3",
+    "options": ["zebra", "giraffe", "antelope"],
+    "correctAnswer": "giraffe"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which food is made from milk and is yellow?",
+    "promptOrder": 111,
+    "imageURL": "/img/foods/cheese.png",
+    "soundURL": "/audio/tts/cheese_111.mp3",
+    "options": ["butter", "cheese", "yogurt"],
+    "correctAnswer": "cheese"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which food is long and thin like string?",
+    "promptOrder": 112,
+    "imageURL": "/img/foods/spaghetti.png",
+    "soundURL": "/audio/tts/spaghetti_112.mp3",
+    "options": ["rice", "spaghetti", "bread"],
+    "correctAnswer": "spaghetti"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which food is crunchy and comes in a bag?",
+    "promptOrder": 113,
+    "imageURL": "/img/foods/chips.png",
+    "soundURL": "/audio/tts/chips_113.mp3",
+    "options": ["crackers", "chips", "cookies"],
+    "correctAnswer": "chips"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which food is sweet and comes on a stick?",
+    "promptOrder": 114,
+    "imageURL": "/img/foods/lollipop.png",
+    "soundURL": "/audio/tts/lollipop_114.mp3",
+    "options": ["candy", "lollipop", "gum"],
+    "correctAnswer": "lollipop"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which food is round and has holes?",
+    "promptOrder": 115,
+    "imageURL": "/img/foods/donut.png",
+    "soundURL": "/audio/tts/donut_115.mp3",
+    "options": ["bagel", "donut", "muffin"],
+    "correctAnswer": "donut"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we wear when it rains?",
+    "promptOrder": 116,
+    "imageURL": "/img/clothes/raincoat.png",
+    "soundURL": "/audio/tts/raincoat_116.mp3",
+    "options": ["sweater", "raincoat", "shorts"],
+    "correctAnswer": "raincoat"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we wear to keep our feet dry?",
+    "promptOrder": 117,
+    "imageURL": "/img/clothes/boots.png",
+    "soundURL": "/audio/tts/boots_117.mp3",
+    "options": ["sandals", "boots", "slippers"],
+    "correctAnswer": "boots"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we wear around our neck when it's cold?",
+    "promptOrder": 118,
+    "imageURL": "/img/clothes/scarf.png",
+    "soundURL": "/audio/tts/scarf_118.mp3",
+    "options": ["tie", "scarf", "necklace"],
+    "correctAnswer": "scarf"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we wear to sleep?",
+    "promptOrder": 119,
+    "imageURL": "/img/clothes/pajamas.png",
+    "soundURL": "/audio/tts/pajamas_119.mp3",
+    "options": ["uniform", "pajamas", "costume"],
+    "correctAnswer": "pajamas"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we wear on our feet at the beach?",
+    "promptOrder": 120,
+    "imageURL": "/img/clothes/sandals.png",
+    "soundURL": "/audio/tts/sandals_120.mp3",
+    "options": ["boots", "sandals", "sneakers"],
+    "correctAnswer": "sandals"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we use to erase mistakes?",
+    "promptOrder": 121,
+    "imageURL": "/img/school/eraser.png",
+    "soundURL": "/audio/tts/eraser_121.mp3",
+    "options": ["pen", "eraser", "marker"],
+    "correctAnswer": "eraser"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we use to stick things together?",
+    "promptOrder": 122,
+    "imageURL": "/img/school/glue.png",
+    "soundURL": "/audio/tts/glue_122.mp3",
+    "options": ["tape", "glue", "stapler"],
+    "correctAnswer": "glue"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we use to color pictures?",
+    "promptOrder": 123,
+    "imageURL": "/img/school/crayons.png",
+    "soundURL": "/audio/tts/crayons_123.mp3",
+    "options": ["pencils", "crayons", "erasers"],
+    "correctAnswer": "crayons"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we use to draw straight lines?",
+    "promptOrder": 124,
+    "imageURL": "/img/school/ruler.png",
+    "soundURL": "/audio/tts/ruler_124.mp3",
+    "options": ["compass", "ruler", "protractor"],
+    "correctAnswer": "ruler"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What do we write on?",
+    "promptOrder": 125,
+    "imageURL": "/img/school/paper.png",
+    "soundURL": "/audio/tts/paper_125.mp3",
+    "options": ["board", "paper", "wall"],
+    "correctAnswer": "paper"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What part of our body do we walk with?",
+    "promptOrder": 126,
+    "imageURL": "/img/body/feet.png",
+    "soundURL": "/audio/tts/feet_126.mp3",
+    "options": ["hands", "feet", "knees"],
+    "correctAnswer": "feet"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What part of our body has hair?",
+    "promptOrder": 127,
+    "imageURL": "/img/body/head.png",
+    "soundURL": "/audio/tts/head_127.mp3",
+    "options": ["arm", "head", "leg"],
+    "correctAnswer": "head"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What part of our body bends in the middle?",
+    "promptOrder": 128,
+    "imageURL": "/img/body/arm.png",
+    "soundURL": "/audio/tts/arm_128.mp3",
+    "options": ["finger", "arm", "toe"],
+    "correctAnswer": "arm"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What part of our body helps us chew?",
+    "promptOrder": 129,
+    "imageURL": "/img/body/teeth.png",
+    "soundURL": "/audio/tts/teeth_129.mp3",
+    "options": ["tongue", "teeth", "lips"],
+    "correctAnswer": "teeth"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What part of our body pumps blood?",
+    "promptOrder": 130,
+    "imageURL": "/img/body/heart.png",
+    "soundURL": "/audio/tts/heart_130.mp3",
+    "options": ["stomach", "heart", "lungs"],
+    "correctAnswer": "heart"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which vehicle has sirens and helps sick people?",
+    "promptOrder": 131,
+    "imageURL": "/img/vehicles/ambulance.png",
+    "soundURL": "/audio/tts/ambulance_131.mp3",
+    "options": ["fire truck", "ambulance", "police car"],
+    "correctAnswer": "ambulance"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which vehicle carries heavy things?",
+    "promptOrder": 132,
+    "imageURL": "/img/vehicles/truck.png",
+    "soundURL": "/audio/tts/truck_132.mp3",
+    "options": ["van", "truck", "taxi"],
+    "correctAnswer": "truck"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which vehicle runs on tracks?",
+    "promptOrder": 133,
+    "imageURL": "/img/vehicles/train.png",
+    "soundURL": "/audio/tts/train_133.mp3",
+    "options": ["subway", "train", "trolley"],
+    "correctAnswer": "train"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which vehicle has pedals?",
+    "promptOrder": 134,
+    "imageURL": "/img/vehicles/bicycle.png",
+    "soundURL": "/audio/tts/bicycle_134.mp3",
+    "options": ["scooter", "bicycle", "skateboard"],
+    "correctAnswer": "bicycle"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Which vehicle flies and has spinning blades?",
+    "promptOrder": 135,
+    "imageURL": "/img/vehicles/helicopter.png",
+    "soundURL": "/audio/tts/helicopter_135.mp3",
+    "options": ["jet", "helicopter", "glider"],
+    "correctAnswer": "helicopter"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What tool helps us see tiny things?",
+    "promptOrder": 136,
+    "imageURL": "/img/tools/magnifying_glass.png",
+    "soundURL": "/audio/tts/magnifying_glass_136.mp3",
+    "options": ["telescope", "magnifying glass", "binoculars"],
+    "correctAnswer": "magnifying glass"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What tool helps us dig holes?",
+    "promptOrder": 137,
+    "imageURL": "/img/tools/shovel.png",
+    "soundURL": "/audio/tts/shovel_137.mp3",
+    "options": ["rake", "shovel", "hoe"],
+    "correctAnswer": "shovel"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What tool helps us paint walls?",
+    "promptOrder": 138,
+    "imageURL": "/img/tools/paintbrush.png",
+    "soundURL": "/audio/tts/paintbrush_138.mp3",
+    "options": ["roller", "paintbrush", "sponge"],
+    "correctAnswer": "paintbrush"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What tool helps us pick up leaves?",
+    "promptOrder": 139,
+    "imageURL": "/img/tools/rake.png",
+    "soundURL": "/audio/tts/rake_139.mp3",
+    "options": ["broom", "rake", "mop"],
+    "correctAnswer": "rake"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What tool helps us water plants?",
+    "promptOrder": 140,
+    "imageURL": "/img/tools/watering_can.png",
+    "soundURL": "/audio/tts/watering_can_140.mp3",
+    "options": ["bucket", "watering can", "hose"],
+    "correctAnswer": "watering can"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Where do we go to see movies?",
+    "promptOrder": 141,
+    "imageURL": "/img/places/movie_theater.png",
+    "soundURL": "/audio/tts/movie_theater_141.mp3",
+    "options": ["theater", "movie theater", "concert hall"],
+    "correctAnswer": "movie theater"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Where do we go to swim?",
+    "promptOrder": 142,
+    "imageURL": "/img/places/pool.png",
+    "soundURL": "/audio/tts/pool_142.mp3",
+    "options": ["beach", "pool", "lake"],
+    "correctAnswer": "pool"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Where do we go to see animals?",
+    "promptOrder": 143,
+    "imageURL": "/img/places/zoo.png",
+    "soundURL": "/audio/tts/zoo_143.mp3",
+    "options": ["farm", "zoo", "circus"],
+    "correctAnswer": "zoo"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Where do we go to eat out?",
+    "promptOrder": 144,
+    "imageURL": "/img/places/restaurant.png",
+    "soundURL": "/audio/tts/restaurant_144.mp3",
+    "options": ["cafe", "restaurant", "diner"],
+    "correctAnswer": "restaurant"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "Where do we go to mail letters?",
+    "promptOrder": 145,
+    "imageURL": "/img/places/post_office.png",
+    "soundURL": "/audio/tts/post_office_145.mp3",
+    "options": ["bank", "post office", "office"],
+    "correctAnswer": "post office"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What action do we do when we're happy?",
+    "promptOrder": 146,
+    "imageURL": "/img/actions/laugh.png",
+    "soundURL": "/audio/tts/laugh_146.mp3",
+    "options": ["cry", "laugh", "frown"],
+    "correctAnswer": "laugh"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What action do we do with food?",
+    "promptOrder": 147,
+    "imageURL": "/img/actions/eat.png",
+    "soundURL": "/audio/tts/eat_147.mp3",
+    "options": ["drink", "eat", "cook"],
+    "correctAnswer": "eat"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What action do we do with water?",
+    "promptOrder": 148,
+    "imageURL": "/img/actions/drink.png",
+    "soundURL": "/audio/tts/drink_148.mp3",
+    "options": ["pour", "drink", "splash"],
+    "correctAnswer": "drink"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What action do we do with a book?",
+    "promptOrder": 149,
+    "imageURL": "/img/actions/read.png",
+    "soundURL": "/audio/tts/read_149.mp3",
+    "options": ["write", "read", "draw"],
+    "correctAnswer": "read"
+  },
+  {
+    "gameType": "category_quest",
+    "promptText": "What action do we do with a pencil?",
+    "promptOrder": 150,
+    "imageURL": "/img/actions/write.png",
+    "soundURL": "/audio/tts/write_150.mp3",
+    "options": ["erase", "write", "break"],
+    "correctAnswer": "write"
+  }
+]
